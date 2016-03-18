@@ -1,5 +1,8 @@
 hello
+<<<<<<< HEAD
 Feature Master
+=======
 Feature 1
 Feature 2
 Feature Last
+>>>>>>> feature1
